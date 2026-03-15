@@ -68,7 +68,7 @@ AI-Powered-Code-Reviewer/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Villwin007/AI-Powered-Code-Reviewer.git
+   git clone https://github.com/DhanushS-11/AI-Powered-Code-Reviewer.git
    cd AI-Powered-Code-Reviewer
    ```
 
@@ -309,7 +309,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Dhanush Saravanan**
 
-- GitHub: [@Villwin007](https://github.com/Villwin007)
+- GitHub: [@DhanushS-11](https://github.com/DhanushS-11)
 - Email: [s.dhanush1106@gmail.com](mailto:s.dhanush1106@gmail.com)
 - Portfolio: [Your Portfolio/LinkedIn]
 
